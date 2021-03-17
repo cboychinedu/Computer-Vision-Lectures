@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20201007_161715.jpg</filename>
+	<path>/home/mbonuchinedu/Documents/MainProjects/ComputerVision/images/IMG_20201007_161715.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>983</width>
+		<height>983</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grande</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>8</ymin>
+			<xmax>747</xmax>
+			<ymax>830</ymax>
+		</bndbox>
+	</object>
+</annotation>
